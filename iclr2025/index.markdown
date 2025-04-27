@@ -26,13 +26,13 @@ Papers can present methodological innovations designed towards a particular prob
 
 ### Bonus Track
 
-We invite content for a "bonus track" of our workshop to better broadcast projects, progress, and announcements across the diverse orbits of work on machine learning for remote sensing. In particular we welcome the submission of one-slide presentations and live demos.
+We invite content for a "bonus track" of our workshop to better broadcast projects, progress, and announcements across the diverse orbits of work on machine learning for remote sensing. In particular we welcome the submission of one-slide presentations and live demos. This is a first-time experiment to improve access so please join in.
 
-- **Bonus track submission form:** [https://forms.gle/jPqYbQPgAhTi7RXA6](https://forms.gle/jPqYbQPgAhTi7RXA6)
+- ~~**Bonus track submission form:** [https://forms.gle/jPqYbQPgAhTi7RXA6](https://forms.gle/jPqYbQPgAhTi7RXA6)~~
 
-The deadline for the bonus track is April 23, 2025 (Anywhere on Earth).
+~~The deadline for the bonus track is April 23, 2025 (Anywhere on Earth).~~
 
-Accepted slides will be auto-played during the poster sessions and breaks and linked from the workshop site. Demos will be presented _in-person_ during the event subject to venue space and equipment.
+[Bonus slides](https://docs.google.com/presentation/d/1m4ejHd3-JMEAkstrhNPho9hp26MVoZqcQRvKCf9mGFc/edit?slide=id.g35074c149df_0_71#slide=id.g35074c149df_0_71) will be auto-played during the poster sessions and are linked here for virtual attendees. Demos will be presented _in-person_ during the event subject to venue space and equipment.
 
 ### Travel Support
 Thanks to our sponsors, we have limited funding available to support the travel of students to attend the workshop held at ICLR 2024. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
