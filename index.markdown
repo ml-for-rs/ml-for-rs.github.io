@@ -2,12 +2,14 @@
 layout: default
 ---
 # Machine Learning for Remote Sensing
-Remote sensing data (also referred to as Earth observation or satellite data) has become an increasingly popular modality for machine learning research. This interest has largely been driven by the opportunities that remote sensing data present for contributing to challenges urgently important to society, such as climate change, food security, conservation, disasters, and poverty. This growing interest in ML research for remote sensing data is also driven by the challenges presented by its unique characteristics compared to other data modalities (e.g., images, text, video). Remote sensing datasets are very high-dimensional and often have spatial, temporal, and spectral dimensions more complex than traditional RGB images or videos. The diversity of instruments used for observing the Earth at different wavelengths, temporal cadences, and spatial resolutions has driven active research in domain adaptation, data fusion, and other topic areas. 
+Remote sensing data (also referred to as Earth observation or satellite data) has become an increasingly popular modality for machine learning research. This interest has largely been driven by the opportunities that remote sensing data present for contributing to challenges urgently important to society, such as climate change, food security, conservation, disasters, and poverty. This growing interest in ML research for remote sensing data is also driven by the challenges presented by its unique characteristics compared to other data modalities (e.g., images, text, video). Remote sensing datasets are very high-dimensional and often have spatial, temporal, and spectral dimensions more complex than traditional RGB images or videos. The diversity of instruments used for observing the Earth at different wavelengths, temporal cadences, and spatial resolutions has driven active research in domain adaptation, data fusion, and other topic areas.
 
 **Workshops:**
 
-* The first [Machine Learning for Remote Sensing Workshop](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023) took place at ICLR 2023 in Kigali on May 4th 2023. 
+* The first [Machine Learning for Remote Sensing Workshop](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023) took place at ICLR 2023 in Kigali on May 4th 2023.
 
-* The second [Machine Learning for Remote Sensing Workshop](https://ml-for-rs.github.io/iclr2024/) took place at ICLR 2024 in Vienna on May 11th 2024. 
+* The second [Machine Learning for Remote Sensing Workshop](https://ml-for-rs.github.io/iclr2024/) took place at ICLR 2024 in Vienna on May 11th 2024.
 
-* The third [Machine Learning for Remote Sensing Workshop](https://ml-for-rs.github.io/iclr2025/) will take place at [ICLR 2025](https://www.iclr.cc/Conferences/2025) in Singapore on April 27th or April 28th 2025. 
+* The third [Machine Learning for Remote Sensing Workshop](https://ml-for-rs.github.io/iclr2025/) took place at [ICLR 2025](https://www.iclr.cc/Conferences/2025) in Singapore on April 27th 2025.
+
+* The fourth [Machine Learning for Remote Sensing Workshop](https://ml-for-rs.github.io/iclr2026/) will take place at [ICLR 2026](https://www.iclr.cc/Conferences/2026) in Rio de Janeiro on April 26th or April 27th, 2026.
