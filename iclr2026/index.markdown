@@ -23,7 +23,7 @@ By fostering collaborations between ML researchers and remote sensing domain exp
 ### Important Dates
 - Submission Deadline - February 6, 2026 (Anywhere on Earth)
 - Acceptance Notification - March 1st, 2026
-- Workshop - Sunday April 26th or 27th, 2025
+- Workshop - Sunday April 26th or 27th, 2026
 
 ### Submission Format
 
