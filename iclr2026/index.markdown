@@ -43,7 +43,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 
 #### Tiny paper track
 
-We welcome **tiny papers** (2 pages) that present focused contributions at the intersection of machine learning and remote sensing. Tiny papers may report modest but complete experimental results, introduce a fresh perspective with supporting evidence, offer a single theoretical insight, or propose new ideas and seek feedback from the community. This track is particularly intended to encourage participation from students and researchers who may be new to the remote sensing domain. While not required, we encourage examples or applications related to **Brazil**, aligned with ICLR 2026’s location; submissions without this connection will not be penalized.
+We welcome **tiny papers** (2 pages) that present focused contributions at the intersection of machine learning and remote sensing. Tiny papers may report modest but complete experimental results, introduce a fresh perspective with supporting evidence, offer a single theoretical insight, or propose new ideas and seek feedback from the community. This track is particularly intended to encourage participation from students and researchers who may be new to the remote sensing domain and remote sensing researchers new to AI/ML. While not required, we encourage examples or applications related to **Brazil**, aligned with ICLR 2026’s location; submissions without this connection will not be penalized.
 
 #### Tutorials track
 
