@@ -3,20 +3,20 @@ layout: iclr2026
 ---
 # Machine Learning for Remote Sensing
 
-This workshop promotes trans-disciplinary research through diverse view-points to tackle the pressing questions of our times, such as climate change, social inequalities, biodiversity, and food security. Developing modern machine learning approaches tailored towards remote sensing data is key to investigating these problems efficiently. The special theme of our workshop this year is **“ML4RS: publication to practice.”**. Our workshop this year will focus on bridging gaps between research and real-world applications while continuing to catalyze state-of-the-art research through discussion and feedback on early-stage research.
+This workshop promotes trans-disciplinary research through diverse view-points to tackle the pressing questions of our times, such as climate change, social inequalities, biodiversity, and food security. Developing modern machine learning approaches tailored towards remote sensing data is key to investigating these problems efficiently. The special theme of our workshop this year is **“ML4RS: publication to practice”**. Our workshop this year will focus on bridging gaps between research and real-world applications while continuing to catalyze state-of-the-art research through discussion and feedback on early-stage research.
 
 ### Topics
 
 By fostering collaborations between ML researchers and remote sensing domain experts, our workshop promises to break new ground in advancing both the methodologies and applications of ML for remote sensing, setting the stage for future advances in this field. Our workshop solicit contributions tackling problems including (but not limited to):
 
-- 🧠Foundation models: How can large models pretrained on unlabeled satellite data capture spectral, spatial, and temporal nuances to accelerate downstream tasks?
-- ✍🏽Active learning & annotation efficiency: How can we target limited labeling effort to maximize model performance?
-- 🧩Imperfect evaluation data: How can we assess model quality and detect artefacts with sparse or uncertain labels?
-- 🔎Interpretability & generalization: How can geospatial priors and physical models improve transparency and robustness?
-- 📊Benchmarking & impact: How can evaluation metrics reflect real-world impact and enable fair model comparison?
-- 🪶Accessibility & efficiency: How can we democratize ML4RS through distributed, low-cost training and experimentation?
-- 🌎Local vs. global models: Should we aim for one global model or many local specialists, and can we identify scopes for transfer automatically?
-- 🪄Precomputed embeddings: How can we best use precomputed embeddings from foundation models, instead of requiring users to compute embeddings themselves?
+- 🧠 Foundation models: How can large models pretrained on unlabeled satellite data capture spectral, spatial, and temporal nuances to accelerate downstream tasks?
+- ✍🏽 Active learning & annotation efficiency: How can we target limited labeling effort to maximize model performance?
+- 🧩 Imperfect evaluation data: How can we assess model quality and detect artefacts with sparse or uncertain labels?
+- 🔎 Interpretability & generalization: How can geospatial priors and physical models improve transparency and robustness?
+- 📊 Benchmarking & impact: How can evaluation metrics reflect real-world impact and enable fair model comparison?
+- 🪶 Accessibility & efficiency: How can we democratize ML4RS through distributed, low-cost training and experimentation?
+- 🌎 Local vs. global models: Should we aim for one global model or many local specialists, and can we identify scopes for transfer automatically?
+- 🪄 Precomputed embeddings: How can we best use precomputed embeddings from foundation models, instead of requiring users to compute embeddings themselves?
 
 ## Call for Papers
 
@@ -47,7 +47,11 @@ We welcome **tiny papers** (2 pages) that present focused contributions at the i
 
 #### Tutorials track
 
-🇧🇷 We encourage tutorials with examples involving Brazil in their case studies, when feasible (for example, if the tutorial teaches users about a new, lightweight segmentation model for detecting tree crowns, the example in the tutorial notebook could focus on an area in Brazil). For some tutorials, such as existing benchmark datasets, this may not be feasible, and would not be counted against submissions during review.
+🆕 This year's workshop features a new Tutorials track, which aims to expedite the use of new models, code libraries, datasets, and benchmark challenges – facilitating their use in both practical applications and comprehensive benchmarking in future research studies. We invite short papers (up to 4 pages) detailing a tutorial for a model, code library, dataset, or other contribution. We expect most (but not necessarily all) tutorials will be accompanied by an executable Colab notebook, Jupyter notebook, or other code files that can be run on a laptop. 
+
+Accepted tutorial submissions will be invited to record a 15-minute video tutorial leading learners through their tutorial. All accepted tutorials will be posted publicly on our workshop website. Authors of highly reviewed tutorial submissions will be invited to give spotlight presentations and lead breakout "intensives" with extended interactive tutorials and Q&A during the workshop.
+
+🇧🇷 We encourage tutorials with examples involving Brazil or other South American regions in their case studies, when feasible (for example, if the tutorial teaches users about a new, lightweight segmentation model for detecting tree crowns, the example in the tutorial notebook could focus on an area in Brazil). For some tutorials, such as existing benchmark datasets, this may not be feasible, and would not be counted against submissions during review.
 
 ### Paper Submission
 
