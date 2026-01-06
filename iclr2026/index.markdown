@@ -53,6 +53,9 @@ Accepted tutorial submissions will be invited to record a 15-minute video tutori
 
 🇧🇷 We encourage tutorials with examples involving Brazil or other South American regions in their case studies, when feasible (for example, if the tutorial teaches users about a new, lightweight segmentation model for detecting tree crowns, the example in the tutorial notebook could focus on an area in Brazil). For some tutorials, such as existing benchmark datasets, this may not be feasible, and would not be counted against submissions during review.
 
+### LLM usage
+This workshop follows the [Policies on Large Language Model Usage at ICLR 2026](https://blog.iclr.cc/2025/08/26/policies-on-large-language-model-usage-at-iclr-2026/). Please note that ICLR policies explicitly state that AI-generated papers are not allowed for tiny nor short paper track.
+
 ### Paper Submission
 
 The submission website will be added shortly!
