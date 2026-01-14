@@ -47,7 +47,7 @@ We welcome **tiny papers** (2 pages) that present focused contributions at the i
 
 #### Tutorials track
 
-🆕 This year's workshop features a new Tutorials track, which aims to expedite the use of new models, code libraries, datasets, and benchmark challenges – facilitating their use in both practical applications and comprehensive benchmarking in future research studies. We invite short papers (up to 4 pages) detailing a tutorial for a model, code library, dataset, or other contribution. We expect most (but not necessarily all) tutorials will be accompanied by an executable Colab notebook, Jupyter notebook, or other code files that can be run on a laptop. 
+🆕 This year's workshop features a new Tutorials track, which aims to expedite the use of new models, code libraries, datasets, and benchmark challenges – facilitating their use in both practical applications and comprehensive benchmarking in future research studies. We invite short papers (up to 4 pages) detailing a tutorial for a model, code library, dataset, or other contribution. We expect most (but not necessarily all) tutorials will be accompanied by an executable Colab notebook, Jupyter notebook, or other code files that can be run on a laptop.
 
 Accepted tutorial submissions will be invited to record a 15-minute video tutorial leading learners through their tutorial. All accepted tutorials will be posted publicly on our workshop website. Authors of highly reviewed tutorial submissions will be invited to give spotlight presentations and lead breakout "intensives" with extended interactive tutorials and Q&A during the workshop.
 
@@ -58,8 +58,11 @@ This workshop follows the [Policies on Large Language Model Usage at ICLR 2026](
 
 ### Paper Submission
 
-The submission website will be added shortly!
+Please submit your paper before the deadline (see important dates!) via OpenReview:
 
+- **Workshop paper track**: https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Main_Track
+- **Tiny paper track**: https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tiny_Track
+- **Tutorial track**: https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tutorial_Track
 
 ## Organizers
 
