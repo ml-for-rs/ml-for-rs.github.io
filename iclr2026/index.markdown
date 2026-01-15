@@ -60,9 +60,9 @@ This workshop follows the [Policies on Large Language Model Usage at ICLR 2026](
 
 Please submit your paper before the deadline (see important dates!) via OpenReview:
 
-- **Workshop paper track**: https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Main_Track
-- **Tiny paper track**: https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tiny_Track
-- **Tutorial track**: https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tutorial_Track
+- **Workshop paper track**: [https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Main_Track](https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Main_Track)
+- **Tiny paper track**: [https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tiny_Track](https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tiny_Track)
+- **Tutorial track**: [https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tutorial_Track](https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tutorial_Track)
 
 ## Organizers
 
