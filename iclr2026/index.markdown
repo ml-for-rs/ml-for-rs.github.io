@@ -37,13 +37,13 @@ This year, we have three tracks:
 
 We invite short papers (4 pages) describing new and ongoing/in progress research. To prepare your submission, please use the [LaTeX style files for the ML4RS workshop ICLR 2026](https://www.overleaf.com/read/qdchcvppbwvn#131dd7) that provides further detail on the paper structure. Paper reviews will be **double blind**. When submitting your manuscript, make sure you do not include any personally-identifying information such as author names or GitHub links which would de-anonymize the submission.
 
-Page limits do not include references, which are unlimited. The workshop papers will be **non-archival** and dual submission is allowed where permitted by third parties. Authors of ICLR ML4RS papers can opt to have their 4-page submissions evaluated as GRSL candidates, following the journal’s review standards during the workshop (please note that this will incur a - fast - additional review phase and additional publication fees).
+Page limits do not include references, which are unlimited. Papers may have an optional appendix which will not count toward the page limit. The workshop papers will be **non-archival** and dual submission is allowed where permitted by third parties. Authors of ICLR ML4RS papers can opt to have their 4-page submissions evaluated as GRSL candidates, following the journal’s review standards during the workshop (please note that this will incur a - fast - additional review phase and additional publication fees).
 
 Machine Learning for Remote Sensing is non-archival and thus dual submission is allowed where permitted by third parties.
 
 #### Tiny paper track
 
-We welcome **tiny papers** (2 pages) that present focused contributions at the intersection of machine learning and remote sensing. Tiny papers may report modest but complete experimental results, introduce a fresh perspective with supporting evidence, offer a single theoretical insight, or propose new ideas and seek feedback from the community. In this track, we encourage participation from students and researchers who may be new to either remote sensing or machine learning.  While not required, we encourage examples or applications related to **Brazil**, aligned with ICLR 2026’s location; submissions without this connection will not be penalized.
+We welcome **tiny papers** (2 pages) that present focused contributions at the intersection of machine learning and remote sensing. Tiny papers may report modest but complete experimental results, introduce a fresh perspective with supporting evidence, offer a single theoretical insight, or propose new ideas and seek feedback from the community. In this track, we encourage participation from students and researchers who may be new to either remote sensing or machine learning.  While not required, we encourage examples or applications related to **Brazil**, aligned with ICLR 2026’s location; submissions without this connection will not be penalized. Page limits do not include references, which are unlimited. Appendices are not allowed for the tiny paper track.
 
 #### Tutorials track
 
