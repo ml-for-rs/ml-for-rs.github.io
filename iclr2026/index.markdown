@@ -48,6 +48,9 @@ We welcome **tiny papers** (2 pages) that present focused contributions at the i
 #### Tutorials track
 
 🆕 This year's workshop features a new Tutorials track, which aims to expedite the use of new models, code libraries, datasets, and benchmark challenges – facilitating their use in both practical applications and comprehensive benchmarking in future research studies. We invite short papers (up to 4 pages) detailing a tutorial for a model, code library, dataset, or other contribution. We expect most (but not necessarily all) tutorials will be accompanied by an executable Colab notebook, Jupyter notebook, or other code files that can be run on a laptop.
+- Some tutorials may use the full 4 pages to describe or present their tutorial. This may be instead of, or accompanying, an executable Colab notebook or other code repository.
+- We expect that some tutorials may be significantly less than 4 pages, particularly when accompanied by a detailed Colab notebook or Github repository.
+- The OpenReview submission site accepts a single pdf, so you should include any links to notebooks or repositories in the pdf.
 
 Accepted tutorial submissions will be invited to record a 15-minute video tutorial leading learners through their tutorial. All accepted tutorials will be posted publicly on our workshop website. Authors of highly reviewed tutorial submissions will be invited to give spotlight presentations and lead breakout "intensives" with extended interactive tutorials and Q&A during the workshop.
 
