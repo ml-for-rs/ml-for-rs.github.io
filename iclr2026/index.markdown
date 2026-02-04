@@ -51,6 +51,7 @@ We welcome **tiny papers** (2 pages) that present focused contributions at the i
 - Some tutorials may use the full 4 pages to describe or present their tutorial. This may be instead of, or accompanying, an executable Colab notebook or other code repository.
 - We expect that some tutorials may be significantly less than 4 pages, particularly when accompanied by a detailed Colab notebook or Github repository.
 - The OpenReview submission site accepts a single pdf, so you should include any links to notebooks or repositories in the pdf.
+- The tutorial track is **single-blind**, so you do not need to anonymize your tutorial submission.
 
 Accepted tutorial submissions will be invited to record a 15-minute video tutorial leading learners through their tutorial. All accepted tutorials will be posted publicly on our workshop website. Authors of highly reviewed tutorial submissions will be invited to give spotlight presentations and lead breakout "intensives" with extended interactive tutorials and Q&A during the workshop.
 
