@@ -73,7 +73,7 @@ Please submit your paper before the deadline (see important dates!) via OpenRevi
 - [Esther Rolf](https://www.estherrolf.com/) (University of Colorado, Boulder)
 - [Bianca Zadrozny](https://research.ibm.com/people/bianca-zadrozny) (IBM)
 - [Hannah Kerner](https://hannah-rae.github.io/) (Arizona State University)
-- [Marc Rußwurm](http://marcrusswurm.com/) (Wageningen University)
+- [Marc Rußwurm](http://marcrusswurm.com/) (University of Bonn)
 - [Evan Shelhamer](http://imaginarynumber.net/research/) (University of British Columbia)
 - [Gabriel Tseng](https://gabrieltseng.github.io/) (Ai2)
 - [Ronny Hänsch](http://www.rhaensch.de/) (German Aerospace Center (DLR) / GRSS)
