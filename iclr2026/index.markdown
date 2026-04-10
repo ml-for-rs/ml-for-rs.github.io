@@ -18,6 +18,26 @@ By fostering collaborations between ML researchers and remote sensing domain exp
 - 🌎 Local vs. global models: Should we aim for one global model or many local specialists, and can we identify scopes for transfer automatically?
 - 🪄 Precomputed embeddings: How can we best use precomputed embeddings from foundation models, instead of requiring users to compute embeddings themselves?
 
+## 🗓 Schedule
+Event times shown in the schedule are local times in Brazil.
+
+| Time          | Topic                            |
+|---------------|----------------------------------|
+|9:00–9:15  | Opening Remarks                  |
+|9:15–9:45  | Keynote 1: Gilberto Camara |
+|9:45–10:00 | Invited Talk 1: Beth Tellman |
+|10:00-10:15 | Invited Talk 2: Anthony Fuller |
+|10:15-10:30 | Invited Talk 3: Antonio Belchior Anciaes Ferraz |
+|10:30–11:00| Coffee Break                     |
+|11:00-12:00| Discussion / Debate: “Foundation Models - Are we there yet?” (Morning keynote + invited speakers)|
+|12:00-13:30| Lunch (opportunity to visit posters and have discussions) |
+|13:30-14:00| Keynote 2: Dario Augusto Borges Oliveira |
+|14:00-15:00| Contributed Spotlight Presentations |
+|15:00-16:00| Coffee Break and Poster Session |
+|16:00-16:15| Industry perspectives (Earthdaily) |
+|16:15-17:00| Tutorials Overviews |
+|17:00-17:15| Best Paper Awards + Closing Remarks |
+
 ## Call for Papers
 
 ### Important Dates
