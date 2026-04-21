@@ -19,7 +19,7 @@ By fostering collaborations between ML researchers and remote sensing domain exp
 - 🪄 Precomputed embeddings: How can we best use precomputed embeddings from foundation models, instead of requiring users to compute embeddings themselves?
 
 ## 🗓 Schedule
-Event times shown in the schedule are local times in Brazil.
+Event times shown in the schedule are local times in Brazil. The workshop will be held in Room 212. 
 
 | Time          | Topic                            |
 |---------------|----------------------------------|
@@ -35,8 +35,8 @@ Event times shown in the schedule are local times in Brazil.
 |14:00-15:00| Contributed Spotlight Presentations |
 |15:00-16:00| Coffee Break and Poster Session |
 |16:00-16:15| Industry perspectives (Earthdaily) |
-|16:15-17:00| Tutorials Overviews |
-|17:00-17:15| Best Paper Awards + Closing Remarks |
+|16:15-16:45| Tutorials Overviews |
+|16:45-17:00| Best Paper Awards + Closing Remarks |
 
 ## Call for Papers
 
