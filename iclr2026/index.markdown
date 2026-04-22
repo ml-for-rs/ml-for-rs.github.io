@@ -88,6 +88,20 @@ Please submit your paper before the deadline (see important dates!) via OpenRevi
 - **Tiny paper track**: [https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tiny_Track](https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tiny_Track)
 - **Tutorial track**: [https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tutorial_Track](https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tutorial_Track)
 
+## Special ML4RS Stream at Geoscience and Remote Sensing Letters
+
+This is an option for all accepted ML4RS papers that indicated interest in the GRSL special stream. All other papers and submissions will be desk-rejected.
+
+Please submit your revised 4-page paper to the [IEEE Geoscience and Remote Sensing Letters](https://www.grss-ieee.org/publications/geoscience-and-remote-sensing-letters/) via the submission link: [https://ieee.submission.researchexchange.com/submission/dashboard?siteName=grsl](https://ieee.submission.researchexchange.com/submission/dashboard?siteName=grsl).
+
+Please follow the [GRSL submission template](https://www.overleaf.com/latex/templates/ieee-geoscience-and-remote-sensing-letters-official-ieee-latex-template/zckwcmrxbvhg).
+
+**Important:** In the submission portal under "Article Type", please specify the "Special Stream of the Machine Learning for Remote Sensing (ML4RS) workshop at ICLR 2026".
+
+![GRSL special stream article type selection](images/GRSL_Stream.png)
+
+Your paper will be handled by the ML4RS organizers as Guest Editors, who will aim to assign the same reviewers as in the workshop to ensure a clean pathway to proceedings.
+
 ## Organizers
 
 - [Esther Rolf](https://www.estherrolf.com/) (University of Colorado, Boulder)
