@@ -44,6 +44,7 @@ Event times shown in the schedule are local times in Brazil. The workshop will b
 - Submission Deadline - February 6, 2026 (Anywhere on Earth)
 - Acceptance Notification - March 1st, 2026
 - Workshop - Monday April 27th, 2026
+- GRSL Special Stream Submission Close - September 1st, 2026
 
 ### Submission Format
 
@@ -91,6 +92,9 @@ Please submit your paper before the deadline (see important dates!) via OpenRevi
 ## Special ML4RS Stream at Geoscience and Remote Sensing Letters
 
 This is an option for all accepted ML4RS papers that indicated interest in the GRSL special stream. All other papers and submissions will be desk-rejected.
+
+- GRSL Special Stream Submission Open - May 1st, 2026
+- GRSL Special Stream Submission Close - September 1st, 2026
 
 Please submit your revised 4-page paper to the [IEEE Geoscience and Remote Sensing Letters](https://www.grss-ieee.org/publications/geoscience-and-remote-sensing-letters/) via the submission link: [https://ieee.submission.researchexchange.com/submission/dashboard?siteName=grsl](https://ieee.submission.researchexchange.com/submission/dashboard?siteName=grsl).
 
