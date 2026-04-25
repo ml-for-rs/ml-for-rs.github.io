@@ -56,7 +56,7 @@ Event times shown in the schedule are local times in Brazil. The workshop will b
 4. 	**Advancing Earth Observation Through Machine Learning: A TorchGeo Tutorial** ([Torchgeo Office Hours](https://asu.zoom.us/my/davrob))
 - [Tutorial code / colab notebook](https://torchgeo.readthedocs.io/en/latest/tutorials/earth_surface_water.html)
   
-5. **Fields of The World: A Field Guide for Extracting Agricultural Field Boundaries** (Office Hours TBD)
+5. **Fields of The World: A Field Guide for Extracting Agricultural Field Boundaries** ([Fields of The World Office Hours](https://meet.google.com/bsm-eixf-cpn))
   
 6. 	**Getting Started with OlmoEarth: From Embeddings to Fine-tuning** (Office hours TBD)
 - [Tutorial Video](https://youtu.be/2x_7Cc4URxY)
