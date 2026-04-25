@@ -57,7 +57,10 @@ Event times shown in the schedule are local times in Brazil. The workshop will b
 - [Tutorial code / colab notebook](https://torchgeo.readthedocs.io/en/latest/tutorials/earth_surface_water.html)
   
 5. **Fields of The World: A Field Guide for Extracting Agricultural Field Boundaries** ([Fields of The World Office Hours](https://meet.google.com/bsm-eixf-cpn))
-  
+- [Tutorial codebase](https://github.com/fieldsoftheworld/iclr2026-ml4rs-tutorial)
+  -   [agriculture monitoring python notebook](https://github.com/fieldsoftheworld/iclr2026-ml4rs-tutorial/blob/main/1.0-agriculture-monitoring-with-ftw.ipynb)
+  -   [country-scale field boundary prediction notebook](https://github.com/fieldsoftheworld/iclr2026-ml4rs-tutorial/blob/main/2.0-country-scale-field-boundary-predictions.ipynb)
+
 6. 	**Getting Started with OlmoEarth: From Embeddings to Fine-tuning** (Office hours TBD)
 - [Tutorial Video](https://youtu.be/2x_7Cc4URxY)
 - [Tutorial Github](https://github.com/allenai/olmoearth_ml4rs_tutorial)
