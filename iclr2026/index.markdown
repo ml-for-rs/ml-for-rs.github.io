@@ -35,8 +35,38 @@ Event times shown in the schedule are local times in Brazil. The workshop will b
 |14:00-15:00| Contributed Spotlight Presentations |
 |15:00-16:00| Coffee Break and Poster Session |
 |16:00-16:15| Industry perspectives (Earthdaily) |
-|16:15-16:45| Tutorials Overviews |
+|16:15-16:45| Tutorials Overviews & Office hours |
 |16:45-17:00| Best Paper Awards + Closing Remarks |
+
+### Tutorials and office hours links:
+1. **Practical Embedding Workflows with Terratorch, the Geospatial Fine-tuning Toolkit** ([Terratorch Office Hours](https://teams.microsoft.com/meet/288313004934403?p=9kegftXHegWoY7s13k))
+- [Tutorial codebase](https://github.com/terrastackai/terratorch/blob/main/examples/embeddings/README.md)
+  - [Embedding Generation Python Notebook](https://github.com/terrastackai/terratorch/blob/main/examples/embeddings/embedding_generation_burnscars.ipynb)
+  - [Embedding Generation Python Notebook](https://github.com/terrastackai/terratorch/blob/main/examples/embeddings/downstream_segmentation_burnscars.ipynb)
+- [Terratorch explained (video)](https://youtu.be/LNKovSef5lU?si=cbbGWAAtda67VJW6)
+2. **EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images** ([EarthEmbeddingExplorer Office hours](https://us05web.zoom.us/j/86138099950?pwd=OdBBtLpTZg7QpzEplZ9OQiMRZ7ejmF.1))
+- [3 minute demo video](https://youtu.be/tHqa0knKeX0)
+- [10 minute oral presentation](https://youtu.be/PvBO44PCVkA)
+- Web applications: [web application 1](https://modelscope.cn/studios/Major-TOM/EarthEmbeddingExplorer), [web application 2](https://modelscope.ai/studios/Major-TOM/EarthEmbeddingExplorer)
+
+3. **Cropland Mapping using Geospatial Embeddings** (no office hours)
+- [Tutorial Video](https://youtu.be/5ra4zivbAfg) 
+- [Tutorial Blogpost](https://nasaharvest.github.io/presto-embeddings)
+
+4. 	**Advancing Earth Observation Through Machine Learning: A TorchGeo Tutorial** ([Torchgeo Office Hours](https://asu.zoom.us/my/davrob))
+- [Tutorial code / colab notebook](https://torchgeo.readthedocs.io/en/latest/tutorials/earth_surface_water.html)
+  
+5. **Fields of The World: A Field Guide for Extracting Agricultural Field Boundaries** (Office Hours TBD)
+  
+6. 	**Getting Started with OlmoEarth: From Embeddings to Fine-tuning** (Office hours TBD)
+- [Tutorial Video](https://youtu.be/2x_7Cc4URxY)
+- [Tutorial Github](https://github.com/allenai/olmoearth_ml4rs_tutorial)
+
+### Oral Presentation Videos:
+1. [FOCUS: A Noise-Aware Geospatial Learning Framework for PFAS Contamination Mapping](https://drive.google.com/file/d/1mp0RNrnsntDFyw4PI8vpwdFP72bdQ8Ba/view?usp=sharing). Jowaria Khan, Alexa Friedman, Sydney Evans, Rachel Klein, Runzi Wang, Katherine E. Manz, Kaley Beins, David Q. Andrews, Elizabeth Bondi-Kelly
+2. [When Does Embedding Arithmetic Fail?](https://youtu.be/ZbpGPGeoBnY) Jinpyo Hong, Le Yu
+3. [DiffuSAM: Diffusion Guided Zero-Shot Object Grounding for Remote Sensing Imagery](https://youtu.be/mPl55ig0UsE). Geet Sethi, Panav Shah, Ashutosh Gandhe, Soumitra Darshan Nayak
+4. [When Less Is More: Simplicity Beats Complexity for Physics-Constrained InSAR Phase Unwrapping](https://drive.google.com/file/d/1wKgJmx6akYAY1wzTBEdGGwT1sTi1nFPf/view?usp=sharing). Prabhjot Singh, Manmeet Singh
 
 ## Call for Papers
 
