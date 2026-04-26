@@ -18,8 +18,8 @@ By fostering collaborations between ML researchers and remote sensing domain exp
 - 🌎 Local vs. global models: Should we aim for one global model or many local specialists, and can we identify scopes for transfer automatically?
 - 🪄 Precomputed embeddings: How can we best use precomputed embeddings from foundation models, instead of requiring users to compute embeddings themselves?
 
-## 🗓 Schedule
-Event times shown in the schedule are local times in Brazil. The workshop will be held in Room 212. 
+## Schedule
+🗓 Event times shown in the schedule are local times in Brazil. The workshop will be held in Room 212. 
 
 | Time          | Topic                            |
 |---------------|----------------------------------|
