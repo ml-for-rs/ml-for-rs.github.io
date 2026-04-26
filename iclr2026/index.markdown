@@ -32,7 +32,7 @@ Event times shown in the schedule are local times in Brazil. The workshop will b
 |11:00-12:00| Discussion / Debate: “Foundation Models - Are we there yet?” (Morning keynote + invited speakers)|
 |12:00-13:30| Lunch (opportunity to visit posters and have discussions) |
 |13:30-14:00| Keynote 2: Dario Augusto Borges Oliveira |
-|14:00-15:00| Contributed Spotlight Presentations |
+|14:00-15:00| Contributed Spotlight Presentations <br>• 14:00–14:12 \| [FOCUS: A Noise-Aware Geospatial Learning Framework for PFAS Contamination Mapping](https://openreview.net/forum?id=zLMTU3U3ym), Jowaria Khan, Alexa Friedman, Sydney Evans, Rachel Klein, Runzi Wang, Katherine E. Manz, Kaley Beins, David Q. Andrews, Elizabeth Bondi-Kelly <br>• 14:12–14:24 \| [Bridging the "Predictability Desert": A Probabilistic Bias Correction Framework for AI and Dynamical Subseasonal Forecasts](https://openreview.net/forum?id=oqCTH31O88), Hannah Guan, Soukayna Mouatadid, Paulo Orenstein, Judah Cohen, Zekun Ni, Haiyu Dong, Genevieve Elaine Flaspohler, Alex Xijie Lu, Jonathan A. Weyn, Lester Mackey <br>• 14:24–14:36 \| [CERBERUS: A Three-Headed Decoder for Vertical Cloud Profiles](https://openreview.net/forum?id=3eQBmoPBkw), Emily Katherine de Jong, Kevin M. Smalley, Peter Martin Caldwell, Nipun Gunawardena, Hassan Beydoun <br>• 14:36–14:48 \| [Precipitation nowcasting of satellite data using physically-aligned neural networks](https://openreview.net/forum?id=qIka1ACAEF), Antônio Catão, Melvin Poveda, Leonardo Voltarelli, Paulo Orenstein <br>• 14:48–15:00 \| [Survey Protocol Cards for Crop Maps](https://openreview.net/forum?id=Fqms9xeRpD), Akram Zaytar, Girmaw Abebe Tadesse, Caleb Robinson, Gilles HACHEME, Inbal Becker-Reshef, Rahul M Dodhia, Juan M Lavista Ferres |
 |15:00-16:00| Coffee Break and Poster Session |
 |16:00-16:15| Industry perspectives (Earthdaily) |
 |16:15-16:45| Tutorials Overviews & Office hours |
@@ -61,7 +61,7 @@ Event times shown in the schedule are local times in Brazil. The workshop will b
   -   [agriculture monitoring python notebook](https://github.com/fieldsoftheworld/iclr2026-ml4rs-tutorial/blob/main/1.0-agriculture-monitoring-with-ftw.ipynb)
   -   [country-scale field boundary prediction notebook](https://github.com/fieldsoftheworld/iclr2026-ml4rs-tutorial/blob/main/2.0-country-scale-field-boundary-predictions.ipynb)
 
-6. 	**Getting Started with OlmoEarth: From Embeddings to Fine-tuning** (Office hours TBD)
+6. 	**Getting Started with OlmoEarth: From Embeddings to Fine-tuning** (In person office hours)
 - [Tutorial Video](https://youtu.be/2x_7Cc4URxY)
 - [Tutorial Github](https://github.com/allenai/olmoearth_ml4rs_tutorial)
 
