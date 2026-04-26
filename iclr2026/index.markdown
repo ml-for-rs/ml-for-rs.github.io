@@ -24,14 +24,14 @@ Event times shown in the schedule are local times in Brazil. The workshop will b
 | Time          | Topic                            |
 |---------------|----------------------------------|
 |9:00–9:15  | Opening Remarks                  |
-|9:15–9:45  | Keynote 1: Gilberto Camara |
-|9:45–10:00 | Invited Talk 1: Beth Tellman |
-|10:00-10:15 | Invited Talk 2: Anthony Fuller |
-|10:15-10:30 | Invited Talk 3: Antonio Belchior Anciaes Ferraz |
+|9:15–9:45  | Keynote 1: Gilberto Camara, "Geo-ontologies, Ecology and Machine Learning: Building an Interdisciplinary Understanding of Remote Sensing"|
+|9:45–10:00 | Invited Talk 1: Beth Tellman, "The Benchmark-Reality Chasm for Geospatial Foundation Models in Flood Applications" |
+|10:00-10:15 | Invited Talk 2: Anthony Fuller, "Why you shouldn’t trust results tables in remote-sensing-foundation-model (RSFM) papers" |
+|10:15-10:30 | Invited Talk 3: Antonio Belchior Anciaes Ferraz, "From Earth Observation to Biodiversity Action: Where Foundation Models Can Help—and Where the Growing Pains Lie" |
 |10:30–11:00| Coffee Break                     |
 |11:00-12:00| Discussion / Debate: “Foundation Models - Are we there yet?” (Morning keynote + invited speakers)|
 |12:00-13:30| Lunch (opportunity to visit posters and have discussions) |
-|13:30-14:00| Keynote 2: Dario Augusto Borges Oliveira |
+|13:30-14:00| Keynote 2: Dario Augusto Borges Oliveira, "From Scarce Labels to Real-World Impact in Earth Observation" |
 |14:00-15:00| Contributed Spotlight Presentations <br>• 14:00–14:12 \| [FOCUS: A Noise-Aware Geospatial Learning Framework for PFAS Contamination Mapping](https://openreview.net/forum?id=zLMTU3U3ym), Jowaria Khan, Alexa Friedman, Sydney Evans, Rachel Klein, Runzi Wang, Katherine E. Manz, Kaley Beins, David Q. Andrews, Elizabeth Bondi-Kelly <br>• 14:12–14:24 \| [Bridging the "Predictability Desert": A Probabilistic Bias Correction Framework for AI and Dynamical Subseasonal Forecasts](https://openreview.net/forum?id=oqCTH31O88), Hannah Guan, Soukayna Mouatadid, Paulo Orenstein, Judah Cohen, Zekun Ni, Haiyu Dong, Genevieve Elaine Flaspohler, Alex Xijie Lu, Jonathan A. Weyn, Lester Mackey <br>• 14:24–14:36 \| [CERBERUS: A Three-Headed Decoder for Vertical Cloud Profiles](https://openreview.net/forum?id=3eQBmoPBkw), Emily Katherine de Jong, Kevin M. Smalley, Peter Martin Caldwell, Nipun Gunawardena, Hassan Beydoun <br>• 14:36–14:48 \| [Precipitation nowcasting of satellite data using physically-aligned neural networks](https://openreview.net/forum?id=qIka1ACAEF), Antônio Catão, Melvin Poveda, Leonardo Voltarelli, Paulo Orenstein <br>• 14:48–15:00 \| [Survey Protocol Cards for Crop Maps](https://openreview.net/forum?id=Fqms9xeRpD), Akram Zaytar, Girmaw Abebe Tadesse, Caleb Robinson, Gilles HACHEME, Inbal Becker-Reshef, Rahul M Dodhia, Juan M Lavista Ferres |
 |15:00-16:00| Coffee Break and Poster Session |
 |16:00-16:15| Industry perspectives (Earthdaily) |
