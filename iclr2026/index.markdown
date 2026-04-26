@@ -38,7 +38,7 @@ By fostering collaborations between ML researchers and remote sensing domain exp
 |16:15-16:45| Tutorials Overviews & Office hours |
 |16:45-17:00| Best Paper Awards + Closing Remarks |
 
-### Tutorials and office hours links:
+### Tutorials and office hours links
 1. **Practical Embedding Workflows with Terratorch, the Geospatial Fine-tuning Toolkit** ([Terratorch Office Hours](https://teams.microsoft.com/meet/288313004934403?p=9kegftXHegWoY7s13k))
 - [Tutorial codebase](https://github.com/terrastackai/terratorch/blob/main/examples/embeddings/README.md)
   - [Embedding Generation Python Notebook](https://github.com/terrastackai/terratorch/blob/main/examples/embeddings/embedding_generation_burnscars.ipynb)
