@@ -149,3 +149,15 @@ Your paper will be handled by the ML4RS organizers as Guest Editors, who will ai
 - [Gabriel Tseng](https://gabrieltseng.github.io/) (Ai2)
 - [Ronny Hänsch](http://www.rhaensch.de/) (German Aerospace Center (DLR) / GRSS)
 - [Hamed Alemohammad](https://hamedalemo.github.io/) (Clark University)
+
+## Sponsors
+
+We thank our sponsors for supporting the workshop.
+
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 28px;">
+  <img src="./images/EDA_logo_main.webp" alt="EarthDaily" width="220px"/>
+  <img src="./images/microsoft.png" alt="Microsoft AI for Good Lab" width="320px"/>
+  <span style="display: inline-flex; align-items: center; background: #003168; padding: 12px 16px; border-radius: 4px;">
+    <img src="./images/RBC-Borealis-Logo_White.svg" alt="RBC Borealis" width="320px"/>
+  </span>
+</div>
